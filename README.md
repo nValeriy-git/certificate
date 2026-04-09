@@ -7,6 +7,6 @@
 
 - Certificate from Diia confirms successful completion of an AI program.
 
-[Certificate №3](https://github.com/nValeriy-git/certificate/blob/main/image.png)
+[Certificate №3](https://github.com/nValeriy-git/certificate/blob/main/image3.pdf)
 
-- Certificate recognizes participation in an IT hackathon focused on building a platform for organizing hackathons.
+- Certificate about OSINT
