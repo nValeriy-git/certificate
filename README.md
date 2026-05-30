@@ -10,3 +10,9 @@
 [Certificate №3](https://github.com/nValeriy-git/certificate/blob/main/image3.pdf)
 
 - Certificate about OSINT
+
+[Certificate №4](https://github.com/nValeriy-git/certificate/blob/main/image%204.pdf)
+
+- Certificate of participation in the Interuniversity Student Conference “Modern Information Technologies and Digital Innovations”, dedicated to the 70th anniversary of Irpin Professional College of NUBiP Ukraine.
+
+- Duration: 6 hours / 0.2 ECTS credits.
