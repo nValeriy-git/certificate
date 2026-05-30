@@ -5,7 +5,7 @@
 
 [Certificate №2](https://github.com/nValeriy-git/certificate/blob/main/image2.jpg)
 
-- Certificate from Diia confirms successful completion of an AI program.
+- Certificate from coding in Python
 
 [Certificate №3](https://github.com/nValeriy-git/certificate/blob/main/image3.pdf)
 
